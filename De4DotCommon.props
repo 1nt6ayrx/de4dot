@@ -17,4 +17,7 @@
     <DnlibVersion>3.3.2</DnlibVersion>
   </PropertyGroup>
 
+  <ItemGroup>
+    <PackageReference Include="dnlib" Version="3.3.2" />
+  </ItemGroup>
 </Project>
